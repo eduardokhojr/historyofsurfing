@@ -1,0 +1,19 @@
+h1 {
+  font-family: Manrope, sans-serif;
+  font-size: 50px;
+  color: darkslateblue;
+}
+h2 {
+  font-family: Quicksand, sans-serif;
+  font-size: 30px;
+  color: darkslateblue;
+}
+body {
+  background-image: url("https://media.newyorker.com/photos/5d5fd4f87ec6dc000826f2fb/16:9/w_2560,h_1440,c_limit/Brisick-Surfing-Selfie.jpg");
+}
+
+img {
+  margin: 50px;
+  width: 200px;
+  float: left;
+}
